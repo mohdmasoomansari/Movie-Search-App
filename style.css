@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    .wrapper{
+        background-color: #C499F3;
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 25px;
+        margin-bottom: 15px;
+        min-height: 100vh;
+    }
+    input{
+        padding: 10px;
+    }
+    button{
+        padding: 10px;
+    }
+    .output{
+        padding: 15px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+       
+    }
+    .output img{
+        height: 450px;
+    }
